@@ -1,0 +1,24 @@
+{
+  "name": "migrate-projects-to-sada",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Migrate projects to SADA billing account",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadasystems/Migrate-Projects-To-SADA.git"
+  },
+  "author": "Julius Oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadasystems/Migrate-Projects-To-SADA/issues"
+  },
+  "homepage": "https://github.com/sadasystems/Migrate-Projects-To-SADA#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "lodash": "^4.17.21"
+  }
+}
