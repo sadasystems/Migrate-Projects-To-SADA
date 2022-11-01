@@ -29,7 +29,7 @@ gcloud init
 npm install
 ```
 
-#### 4. Run Script
+#### 4. Add billing ids
 ```shell
 In the .env file, add old billing account ID and sada billing account ID
 ```
